@@ -1,0 +1,154 @@
+--- 
+"[bifooxir]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by bifooxi tool
+    :value: 6
+  SIGNIFICANCE_HIGH: 
+    :description: chi-square criterion significance upper border
+    :value: 0.0099
+  SIGNIFICANCE_LOW: 
+    :description: chi-square criterion significance lower border
+    :value: 0.015
+  SIGNIFICANCE_DELTA: 
+    :description: chi-square criterion significance delta
+    :value: 0.005
+"[bifooxi_cu]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 7
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 1
+"[bifooxi]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 6
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.01
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 256
+"[by_mfa2seg]": 
+  BISMARK_OUT: 
+    :path: BCD_2_noyes.xml
+    :description: result of ../../../indata/noyes/bcd-2.mfa conversion to small-BiSMark format
+"[bigfoot]": 
+  MOTIF_LENGTH: 
+    :description: motif length used
+    :value: 11
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content
+    :value: 0
+  POSITION_INFOCOD: 
+    :description: best discrete information content for motif bcd-2 (bismark=BCD_2_motif_11.xml)
+    :value: 
+    - -1.12609619683873
+    - -1.07093970782861
+    - -1.00000117381671
+    - -1.02717558294184
+    - 0.0
+    - -0.247382623202869
+    - 0.0
+    - -0.140501929698105
+    - 0.0
+    - -0.140501929698105
+    - -1.12806968587159
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: true
+  BEST_PAIR: 
+    :description: words pair used for initial PCM construction
+    :value: 
+    - NNTCTAATCCA
+    - NNTCTAATCCA
+  MOTIF_LOGO: 
+    :path: BCD_2_motif_11.xml.png
+    :description: resulting motif logo
+  FLANK_LENGTH: 
+    :description: flank length used
+    :value: 6
+  TOTAL_INFOCOD: 
+    :description: best discrete information content for motif bcd-2 (bismark=BCD_2_motif_11.xml)
+    :value: -5.88066882989655
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content
+    :value: 0
+  SEQUENCE_COUNT: 
+    :description: sequence set size
+    :value: 22
+"[bifoosig]": 
+  MIN_SEQUENCE_LENGTH: 
+    :description: length of the shortest sequence in the set
+    :value: 9
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: "true"
+  ADD_FLANK_LENGTH: 
+    :description: additional flank length
+    :value: 1
+  MOTIF_FOUND: 
+    :description: no motif found till length 11
+    :value: false
+  MIN_MOTIF_LENGTH: 
+    :description: minimum motif length allowed
+    :value: 6
+  TOTAL_INFOCOD: 
+    :description: best total discrete information content for different motif lengths
+    :value: 
+    - -5.88066882989655
+    - -5.88066882989655
+    - -5.88066882989655
+    - -5.88066882989655
+    - -5.88066882989655
+    - -5.88066882989655
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  MAX_MOTIF_LENGTH: 
+    :description: maximum motif length allowed
+    :value: 11
+  START_FLANK_LENGTH: 
+    :description: starting flank length used for the shortest motif
+    :value: 1
+  SEQUENCE_COUNT: 
+    :description: total number of sequences in the set
+    :value: 22
+  LENGTH_MODE: 
+    :description: motif length identification mode
+    :value: disabled
+"[bifooxi_cons]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 7
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 2048
+"[bifoocut]": 
+  MOTIF_LENGTH: 
+    :description: motif length found
+    :value: 7
+  MODE: 
+    :description: length detection mode
+    :value: :xi2

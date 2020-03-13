@@ -1,0 +1,41 @@
+--- 
+"[use_sesi]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by SeSiMCMC
+    :value: 10
+  ABSENCE_PRIOR: 
+    :description: motif absence prior given to SeSiMCMC
+    :value: 0.0
+  MOTIF_LOGO: 
+    :path: ZEN_motif.xml.png
+    :description: motif logo
+  FLANK_LENGTH: 
+    :description: sequence flank length used for SeSiMCMC run
+    :value: 5
+  SESIMCMC_LOG: 
+    :path: ZEN_motif_sesimcmc.html
+    :description: result-file of the SeSiMCMC run
+  SEQUENCE_SET: 
+    :path: ZEN_footprints_5rlf_100rnf.fasta
+    :description: sequence set used for motif identification
+  MOTIF: 
+    :path: ZEN_motif.xml
+    :description: resulting motif file
+  MAX_MOTIF_LENGTH: 
+    :description: maximum allowed motif length for SeSiMCMC run
+    :value: 10
+  SEQUENCE_COUNT: 
+    :description: sequence number in the set used for motif identification
+    :value: 12
+"[segexbsm]": 
+  BISMARK_OUT: 
+    :path: ZEN_footprints.xml
+    :description: segments extracted from bismark db using source_id=be_dmel, factor_name=zen
+"[flkscn3]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+"[by_seg2mfa]": 
+  FASTA_OUT: 
+    :path: ZEN_footprints.fasta
+    :description: ZEN_footprints.xml converted to fasta format using genome_release=dmel40

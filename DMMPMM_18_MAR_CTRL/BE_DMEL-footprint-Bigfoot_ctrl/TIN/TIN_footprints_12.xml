@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=tin</comment>
+ <group name='bismark extracted sequences' size='11'>
+  <segment id='BE_DMEL.005979' length='33' chromosome='2R' location='5447117'>
+   <sequence>AGCGAGCCCGGTCTCAAGTGGGCGCATCCTTTA</sequence>
+  </segment>
+  <segment id='BE_DMEL.005980' length='33' chromosome='2R' location='5447290'>
+   <sequence>GAGGCACCCAAGCCACTTGAGCCCCGTATCCGT</sequence>
+  </segment>
+  <segment id='BE_DMEL.002467' length='31' chromosome='2R' location='5497321'>
+   <sequence>AATTGCTGCTTCACTTCACAGTTCTCAGGCA</sequence>
+  </segment>
+  <segment id='BE_DMEL.002469' length='31' chromosome='2R' location='5497338'>
+   <sequence>ACAGTTCTCAGGCACTTAAGATATACATATG</sequence>
+  </segment>
+  <segment id='BE_DMEL.002471' length='31' chromosome='2R' location='5497449'>
+   <sequence>ACTGCCGGTGGGCCCTTGAGAAGCCATGGCG</sequence>
+  </segment>
+  <segment id='BE_DMEL.002475' length='31' chromosome='2R' location='5497504'>
+   <sequence>CCTTTGGATGCCCACTTGAGGAGTTGTCCTT</sequence>
+  </segment>
+  <segment id='BE_DMEL.000670' length='40' chromosome='2R' location='19811977'>
+   <sequence>AATAGGAACGACTGAAGCACTTGAGGAGCAGAAGTCCGAG</sequence>
+  </segment>
+  <segment id='BE_DMEL.000671' length='40' chromosome='2R' location='19812014'>
+   <sequence>GAGCCCGATCTTCCTCCCCACTTAGGCCTGCTCTTGGTCT</sequence>
+  </segment>
+  <segment id='BE_DMEL.004400' length='42' chromosome='2R' location='19816856'>
+   <sequence>TAGTCGCACACGTCAAGTTCAAGTGCCAAAGGGAAACAACTC</sequence>
+  </segment>
+  <segment id='BE_DMEL.000745' length='32' chromosome='3R' location='17209333'>
+   <sequence>GGATAATGCATGTCAAGTGGCACTAAACATGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.000753' length='32' chromosome='3R' location='17209524'>
+   <sequence>CCGGCGCAGCTCTCAAGTGGAGAATTTGTCAT</sequence>
+  </segment>
+ </group>
+</smallbismark>

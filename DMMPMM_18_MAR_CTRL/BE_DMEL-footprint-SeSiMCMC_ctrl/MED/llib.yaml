@@ -1,0 +1,28 @@
+--- 
+"[use_sesi]": 
+  ABSENCE_PRIOR: 
+    :description: motif absence prior given to SeSiMCMC
+    :value: 0.0
+  FLANK_LENGTH: 
+    :description: sequence flank length used for SeSiMCMC run
+    :value: 7
+  SESIMCMC_LOG: 
+    :path: MED_motif_sesimcmc.html
+    :description: result-file of the SeSiMCMC run
+  SEQUENCE_SET: 
+    :path: MED_footprints_7rlf_100rnf.fasta
+    :description: sequence set used for motif identification
+  SEQUENCE_COUNT: 
+    :description: sequence number in the set used for motif identification
+    :value: 8
+  MAX_MOTIF_LENGTH: 
+    :description: maximum allowed motif length for SeSiMCMC run
+    :value: 12
+"[segexbsm]": 
+  BISMARK_OUT: 
+    :path: MED_footprints.xml
+    :description: segments extracted from bismark db using source_id=be_dmel, factor_name=Med
+"[by_seg2mfa]": 
+  FASTA_OUT: 
+    :path: MED_footprints.fasta
+    :description: MED_footprints.xml converted to fasta format using genome_release=dmel40

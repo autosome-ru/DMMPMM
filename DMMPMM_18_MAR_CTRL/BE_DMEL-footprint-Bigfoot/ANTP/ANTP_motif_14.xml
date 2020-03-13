@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='Antp' id='ANTP.MTF'>
+  <comment name='discrete information content by position'>[-0.541019986246816, -0.910254719483643, -0.449468962195914, -0.541019986246816, 0.0, -0.349137895163978, -0.794730189390429, 0.0, -0.556213449317868, -0.632571010307265, -0.718372628405811, -0.207075554149, -0.690333275354038, -0.207075554149]</comment>
+  <comment name='discrete information content'>-6.59727321041058</comment>
+  <comment name='number of sequences in the corresponding alignment'>12</comment>
+  <PPM length='14'>
+   <pm-column position='1'>
+    <a>0.75</a>
+    <c>0.0833333333333333</c>
+    <g>0.0</g>
+    <t>0.166666666666667</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.5</a>
+    <c>0.25</c>
+    <g>0.0833333333333333</g>
+    <t>0.166666666666667</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.25</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.75</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.75</a>
+    <c>0.166666666666667</c>
+    <g>0.0</g>
+    <t>0.0833333333333333</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.166666666666667</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.833333333333333</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.5</a>
+    <c>0.333333333333333</c>
+    <g>0.166666666666667</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.583333333333333</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.416666666666667</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>0.666666666666667</a>
+    <c>0.0833333333333333</c>
+    <g>0.0</g>
+    <t>0.25</t>
+   </pm-column>
+   <pm-column position='11'>
+    <a>0.416666666666667</a>
+    <c>0.0833333333333333</c>
+    <g>0.0</g>
+    <t>0.5</t>
+   </pm-column>
+   <pm-column position='12'>
+    <a>0.0833333333333333</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.916666666666667</t>
+   </pm-column>
+   <pm-column position='13'>
+    <a>0.583333333333333</a>
+    <c>0.0</c>
+    <g>0.0833333333333333</g>
+    <t>0.333333333333333</t>
+   </pm-column>
+   <pm-column position='14'>
+    <a>0.916666666666667</a>
+    <c>0.0833333333333333</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+  </PPM>
+  <PWM length='14'>
+   <pm-column position='1'>
+    <a>1.04596855518269</a>
+    <c>-0.955511445027436</c>
+    <g>-2.56494935746154</g>
+    <t>-0.367724780125317</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.653926467406664</a>
+    <c>0.0</c>
+    <g>-0.955511445027436</g>
+    <t>-0.367724780125317</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.0</a>
+    <c>-2.56494935746154</c>
+    <g>-2.56494935746154</g>
+    <t>1.04596855518269</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.04596855518269</a>
+    <c>-0.367724780125317</c>
+    <g>-2.56494935746154</g>
+    <t>-0.955511445027436</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>1.32687094064909</a>
+    <c>-2.56494935746154</c>
+    <g>-2.56494935746154</g>
+    <t>-2.56494935746154</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-0.367724780125317</a>
+    <c>-2.56494935746154</c>
+    <g>-2.56494935746154</g>
+    <t>1.14862270924277</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.653926467406664</a>
+    <c>0.268263986594679</c>
+    <g>-0.367724780125317</g>
+    <t>-2.56494935746154</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>1.32687094064909</a>
+    <c>-2.56494935746154</c>
+    <g>-2.56494935746154</g>
+    <t>-2.56494935746154</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.802346472524937</a>
+    <c>-2.56494935746154</c>
+    <g>-2.56494935746154</g>
+    <t>0.479573080261886</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>0.931558204004943</a>
+    <c>-0.955511445027436</c>
+    <g>-2.56494935746154</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='11'>
+    <a>0.479573080261886</a>
+    <c>-0.955511445027436</c>
+    <g>-2.56494935746154</g>
+    <t>0.653926467406664</t>
+   </pm-column>
+   <pm-column position='12'>
+    <a>-0.955511445027436</a>
+    <c>-2.56494935746154</c>
+    <g>-2.56494935746154</g>
+    <t>1.24171313230878</t>
+   </pm-column>
+   <pm-column position='13'>
+    <a>0.802346472524937</a>
+    <c>-2.56494935746154</c>
+    <g>-0.955511445027436</g>
+    <t>0.268263986594679</t>
+   </pm-column>
+   <pm-column position='14'>
+    <a>1.24171313230878</a>
+    <c>-0.955511445027436</c>
+    <g>-2.56494935746154</g>
+    <t>-2.56494935746154</t>
+   </pm-column>
+  </PWM>
+  <word-list size='12'>
+   <word score='8.89093432046015'>AATAAACAATTAAA</word>
+   <word score='11.2149400917047'>ACTAATGATAATTA</word>
+   <word score='11.000502105029'>AATTATCAAATTTA</word>
+   <word score='7.73306011171473'>ACACATAAATCTTA</word>
+   <word score='10.0811261901401'>CATAAAAATATTAA</word>
+   <word score='12.3400599564926'>ATTAATCAAAATAA</word>
+   <word score='11.5313338770037'>ATAAATAATATTAA</word>
+   <word score='9.92189596456957'>ACTCATAAAAATGA</word>
+   <word score='6.94390637249224'>TGAAATGAACTTAA</word>
+   <word score='10.3076307484951'>AATAATCATAATTC</word>
+   <word score='13.7473736848366'>AATAATAAAAATAA</word>
+   <word score='11.2537021404054'>TATAATAATTTTAA</word>
+  </word-list>
+ </motif>
+</smallbismark>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='D' id='D.MTF'>
+  <comment name='discrete information content by position'>[-0.368714612713165, 0.0, -0.186168261925412, 0.0, -0.415053917441354, -0.627696234445802]</comment>
+  <comment name='discrete information content'>-1.59763302652573</comment>
+  <comment name='number of sequences in the corresponding alignment'>34</comment>
+  <PPM length='6'>
+   <pm-column position='1'>
+    <a>0.852941176470588</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.147058823529412</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.0</a>
+    <c>1.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.941176470588235</a>
+    <c>0.0588235294117647</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.176470588235294</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.823529411764706</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.441176470588235</a>
+    <c>0.0</c>
+    <g>0.558823529411765</g>
+    <t>0.0</t>
+   </pm-column>
+  </PPM>
+  <PWM length='6'>
+   <pm-column position='1'>
+    <a>1.20682587330834</a>
+    <c>-3.55534806148941</c>
+    <g>-3.55534806148941</g>
+    <t>-0.510825623765991</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-3.55534806148941</a>
+    <c>1.36463286433871</c>
+    <g>-3.55534806148941</g>
+    <t>-3.55534806148941</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>1.30446434287226</a>
+    <c>-1.35812348415319</c>
+    <g>-3.55534806148941</g>
+    <t>-3.55534806148941</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.36463286433871</a>
+    <c>-3.55534806148941</c>
+    <g>-3.55534806148941</g>
+    <t>-3.55534806148941</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-0.336472236621213</a>
+    <c>-3.55534806148941</c>
+    <g>-3.55534806148941</g>
+    <t>1.17203975722293</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.555525802683898</a>
+    <c>-3.55534806148941</c>
+    <g>0.78845736036427</g>
+    <t>-3.55534806148941</t>
+   </pm-column>
+  </PWM>
+  <word-list size='34'>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='5.48340156537089'>TCAATG</word>
+   <word score='5.69254106860108'>ACAAAG</word>
+   <word score='5.25047000769051'>TCAATA</word>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='5.45960951092071'>ACAAAA</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='5.25047000769051'>TCAATA</word>
+   <word score='5.45960951092071'>ACAAAA</word>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='5.25047000769051'>TCAATA</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='5.45960951092071'>ACAAAA</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='5.69254106860108'>ACAAAG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='4.53846523541977'>ACCATG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='6.96812150476485'>ACAATA</word>
+   <word score='4.53846523541977'>ACCATG</word>
+   <word score='7.20105306244522'>ACAATG</word>
+   <word score='5.69254106860108'>ACAAAG</word>
+   <word score='5.25047000769051'>TCAATA</word>
+  </word-list>
+ </motif>
+</smallbismark>

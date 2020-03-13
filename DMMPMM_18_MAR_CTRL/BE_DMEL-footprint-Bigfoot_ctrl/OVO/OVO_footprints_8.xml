@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=ovo</comment>
+ <group name='bismark extracted sequences' size='12'>
+  <segment id='BE_DMEL.001594' length='35' chromosome='X' location='4908868'>
+   <sequence>ATCGAAGTAACAACTTACAGTAACAGTGTTGTTGG</sequence>
+  </segment>
+  <segment id='BE_DMEL.001595' length='45' chromosome='X' location='4909147'>
+   <sequence>AAACAGCAGAAAAATAAAGCCGTTAAAATTGAATTTAACAGATTT</sequence>
+  </segment>
+  <segment id='BE_DMEL.001596' length='39' chromosome='X' location='4909216'>
+   <sequence>TTCAGCACATTTTAAATGTAACTGTTAATATGCATAGCC</sequence>
+  </segment>
+  <segment id='BE_DMEL.001597' length='41' chromosome='X' location='4909371'>
+   <sequence>CTGCACCCACGACTACAGTTAGAATTAGAATGACACACACC</sequence>
+  </segment>
+  <segment id='BE_DMEL.001598' length='39' chromosome='X' location='4909455'>
+   <sequence>AGTCCGTTCCTTTTTACAGTTACATAGCAATCGTCCGAG</sequence>
+  </segment>
+  <segment id='BE_DMEL.001599' length='35' chromosome='X' location='4909542'>
+   <sequence>TTTTCGGTGATTTTCCGTTGCTTTTTTATTGTGTG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006349' length='36' chromosome='X' location='6937180'>
+   <sequence>TTGTTATTGTTTTCCTGTTACTTCTCTTCTGCCTCT</sequence>
+  </segment>
+  <segment id='BE_DMEL.006350' length='37' chromosome='X' location='6937579'>
+   <sequence>CTAAATAGAGAAGTTCCGTTAATCGTACCACGCATTG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006363' length='41' chromosome='X' location='8334693'>
+   <sequence>TGGCATCCGCACCTAGCACCGTTACACGAAGAATTGAAGCG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006364' length='41' chromosome='X' location='8334969'>
+   <sequence>TGAGCGGTTAAAAAACTCCTGTTATCGCCGTCTATCGATGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006365' length='41' chromosome='X' location='8334999'>
+   <sequence>TCTATCGATGACACCGATAGCGGCATCATCTGTTCCGTGTC</sequence>
+  </segment>
+  <segment id='BE_DMEL.006366' length='35' chromosome='3R' location='19106278'>
+   <sequence>CACGCCGCCAGGAACCGTTACTTCTGCTTTGCACG</sequence>
+  </segment>
+ </group>
+</smallbismark>

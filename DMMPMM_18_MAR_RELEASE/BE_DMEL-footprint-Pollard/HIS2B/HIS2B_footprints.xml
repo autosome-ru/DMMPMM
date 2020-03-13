@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=His2B</comment>
+ <group name='bismark extracted sequences' size='5'>
+  <segment id='BE_DMEL.006052' length='7' chromosome='3L' location='20631203'>
+   <sequence>CAGCTTA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006053' length='8' chromosome='3L' location='20631214'>
+   <sequence>AGCTGATC</sequence>
+  </segment>
+  <segment id='BE_DMEL.006054' length='6' chromosome='3L' location='20631225'>
+   <sequence>CGATTA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006055' length='8' chromosome='3L' location='20631233'>
+   <sequence>TAACGAAA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006058' length='7' chromosome='3L' location='20631244'>
+   <sequence>CTGGCTT</sequence>
+  </segment>
+ </group>
+</smallbismark>

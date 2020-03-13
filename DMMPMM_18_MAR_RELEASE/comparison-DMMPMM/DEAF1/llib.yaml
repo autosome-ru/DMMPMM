@@ -1,0 +1,14 @@
+--- 
+"[pmcmp]": 
+  SELECTIVITY_GRAPH: 
+    :path: DEAF1_comparison.png
+    :description: P-value for matrices using different thresholds on initial sequence set
+  USED_COUNT: 
+    :description: number of used (best) sequences for each motif
+    :value: 10
+  FLANK_LENGTH: 
+    :description: sequence flank length
+    :value: 12
+  TOTAL_COUNT: 
+    :description: total number of sequences from set
+    :value: 10

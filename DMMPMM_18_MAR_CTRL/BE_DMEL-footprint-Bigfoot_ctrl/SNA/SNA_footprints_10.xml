@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=sna</comment>
+ <group name='bismark extracted sequences' size='11'>
+  <segment id='BE_DMEL.000902' length='30' chromosome='3L' location='1445395'>
+   <sequence>ACATTTGGCGCAACTTGCGGAAGACAAGTG</sequence>
+  </segment>
+  <segment id='BE_DMEL.000903' length='30' chromosome='3L' location='1445465'>
+   <sequence>GGAAAAAGGACACCTTGCTGTGCGGCGGGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.000904' length='31' chromosome='3L' location='1445485'>
+   <sequence>TGCGGCGGGAAGCGCAAGTGGCGGGCGGAAT</sequence>
+  </segment>
+  <segment id='BE_DMEL.000908' length='30' chromosome='3L' location='1445546'>
+   <sequence>CATATGTTGAGCACATGTTTTGGGGGAAAT</sequence>
+  </segment>
+  <segment id='BE_DMEL.004503' length='41' chromosome='3R' location='8895891'>
+   <sequence>CCACGGCCACAGCTTCCCACCTGATAGGACAGCTCGGCAAT</sequence>
+  </segment>
+  <segment id='BE_DMEL.004505' length='31' chromosome='3R' location='8896052'>
+   <sequence>ATTGGCCGATTGGAAATTCCCCGATGGCGAT</sequence>
+  </segment>
+  <segment id='BE_DMEL.004506' length='40' chromosome='3R' location='8896302'>
+   <sequence>GGAATCTTTGCTCATCCTACCTGTTTCCATGCCACACCAA</sequence>
+  </segment>
+  <segment id='BE_DMEL.004507' length='52' chromosome='3R' location='8897870'>
+   <sequence>ACTCCTGCGGTCGGCAAAAGTCAACCTGTTGAATGCAGGAGTCACTTGGAGT</sequence>
+  </segment>
+  <segment id='BE_DMEL.004508' length='60' chromosome='3R' location='8898022'>
+   <sequence>CAGTGCAGCCAATGGCAGGTTGTTTTCTCAGGATCAGGTAACAGATCCTTTTCGGGATCA</sequence>
+  </segment>
+  <segment id='BE_DMEL.004509' length='43' chromosome='3R' location='8898116'>
+   <sequence>AAAGCGGCTCAGTTGCAAACAGGTGATTGCAGGGATATGAGCA</sequence>
+  </segment>
+  <segment id='BE_DMEL.004510' length='39' chromosome='3R' location='8898145'>
+   <sequence>CAGGGATATGAGCAAGTGCTGAGAAGGTGCTCGCAACAG</sequence>
+  </segment>
+ </group>
+</smallbismark>

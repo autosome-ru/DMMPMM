@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='Mad' id='MAD.MTF'>
+  <PPM length='9'>
+   <pm-column position='1'>
+    <a>0.0</a>
+    <c>0.0526315789473684</c>
+    <g>0.631578947368421</g>
+    <t>0.315789473684211</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.315789473684211</a>
+    <c>0.578947368421053</c>
+    <g>0.105263157894737</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.105263157894737</a>
+    <c>0.0</c>
+    <g>0.894736842105263</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.578947368421053</a>
+    <c>0.210526315789474</c>
+    <g>0.105263157894737</g>
+    <t>0.105263157894737</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.105263157894737</a>
+    <c>0.894736842105263</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.105263157894737</a>
+    <c>0.0</c>
+    <g>0.631578947368421</g>
+    <t>0.263157894736842</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.157894736842105</a>
+    <c>0.368421052631579</c>
+    <g>0.473684210526316</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.0</a>
+    <c>1.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.473684210526316</a>
+    <c>0.0526315789473684</c>
+    <g>0.473684210526316</g>
+    <t>0.0</t>
+   </pm-column>
+  </PPM>
+  <PWM length='9'>
+   <pm-column position='1'>
+    <a>-2.99573227355399</a>
+    <c>-1.38629436111989</c>
+    <g>0.896088024556636</g>
+    <t>0.22314355131421</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.22314355131421</a>
+    <c>0.810930216216329</c>
+    <g>-0.798507696217772</g>
+    <t>-2.99573227355399</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-0.798507696217772</a>
+    <c>-2.99573227355399</c>
+    <g>1.23837423104327</g>
+    <t>-2.99573227355399</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.810930216216329</a>
+    <c>-0.162518929497775</c>
+    <g>-0.798507696217772</g>
+    <t>-0.798507696217772</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-0.798507696217772</a>
+    <c>1.23837423104327</c>
+    <g>-2.99573227355399</g>
+    <t>-2.99573227355399</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-0.798507696217772</a>
+    <c>-2.99573227355399</c>
+    <g>0.896088024556636</g>
+    <t>0.048790164169432</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>-0.430782916092454</a>
+    <c>0.371563556432483</c>
+    <g>0.615185639090233</g>
+    <t>-2.99573227355399</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>-2.99573227355399</a>
+    <c>1.34807314829969</c>
+    <g>-2.99573227355399</g>
+    <t>-2.99573227355399</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.615185639090233</a>
+    <c>-1.38629436111989</c>
+    <g>0.615185639090233</g>
+    <t>-2.99573227355399</t>
+   </pm-column>
+  </PWM>
+  <word-list size='19'>
+   <word score='5.213397838722'>TGGCCGGCA</word>
+   <word score='8.46922937011263'>GCGACGGCA</word>
+   <word score='6.16252967678539'>TAGACGACA</word>
+   <word score='6.85979145767852'>GCGTCGGCG</word>
+   <word score='4.50814037648903'>TAGTCTCCG</word>
+   <word score='6.18872536019383'>GCAACGCCA</word>
+   <word score='6.79052276216555'>GAGACTCCG</word>
+   <word score='7.25215814174077'>GCGCCGCCA</word>
+   <word score='5.72866509415553'>GCGACAACA</word>
+   <word score='4.577409072002'>CGGACGGCG</word>
+   <word score='5.58504958246438'>GCGAATGCG</word>
+   <word score='7.25215814174077'>GCGCCGCCA</word>
+   <word score='6.43234744285159'>GCGAAGGCG</word>
+   <word score='6.1868469844361'>TCGGCGGCA</word>
+   <word score='5.81382290249584'>GCGGCGACG</word>
+   <word score='6.11757828892313'>TAGACTCCA</word>
+   <word score='5.17161630470704'>TAAACGGCG</word>
+   <word score='6.77463364933822'>GCGACAGCG</word>
+   <word score='3.81559361624132'>GAGCCTCCC</word>
+  </word-list>
+ </motif>
+</smallbismark>

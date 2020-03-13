@@ -1,0 +1,28 @@
+<html>
+<head>
+  <meta name="generator" content="Hands & Brain">
+  <title>smBsm integrated system - DMMPMM - additional information</title>
+  <link rel="stylesheet" href="dmmpmm.css" type="text/css">
+</head>
+<body>
+  <h1 class="link"><a href='index.html'>&lt;home&gt;</a> DMMPMM project - some additional information</h1>
+  <p>Nucleotide probabilities (in order A,C,G,T) computed over Drosophila dmel40 genome release: <a href="addon/dmel40_probs1.txt">1-strand</a>, <a href="addon/dmel40_probs2.txt">2-strand</a>.
+  </p>
+  <p>Bergman set has two PWMs for Dl factor. We used <i>dl-A</i> motif becase it shows better quality in all of the cases. PWM ROC curves graph can be found <a href="addon/DL_BERGMAN_comparison.png">here</a>.
+  </p>
+  <p>Noyes set containts two sequence-sets for Bcd factor. We took the one corresponding to the better quality motif.
+  The other one is actually presented in the Noyes_hd set.</p>
+  
+  <ul style="font-size: 120%;">
+  <li>All motif logos presented on this site are made by pmflogo tool in two modes. The first one (red grid) corresponds to the cases where it wasn't possible to use
+  DIC as scaling (for Bergman and Down sets we do not know the number of aligned sequences). The second one (green grid) refers to DIC usage.</li>
+  <li>For Bigfoot motifs (see any motif-specific page in the Bigfoot motif list) you can check <i>llib.yaml</i> file.
+  It contains all technical program input parameters and results in human-readable YAML format.</li>
+  </ul>
+  
+  <p>All 'ready'-motifs logos in comparison sheets are scaled according to the total footprints number (not counting the small number of absent sites). It has no real effect on visual representation. </p>
+  
+  <p>Ytilib uses 'Statistics2' ruby library by Shin-ichiro HARA <a href="http://raa.ruby-lang.org/project/statistics2/"/>&lt;link&gt;</a>.</p>
+  
+</body>
+</html>

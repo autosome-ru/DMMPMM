@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=zen</comment>
+ <group name='bismark extracted sequences' size='12'>
+  <segment id='BE_DMEL.004210' length='32' chromosome='2L' location='13905023'>
+   <sequence>CAAAGGGAGATAAGTGCCCATTAGTTTATTTT</sequence>
+  </segment>
+  <segment id='BE_DMEL.004211' length='29' chromosome='2L' location='13905139'>
+   <sequence>TCAGGCATATTAATGATCTTCCAAACATC</sequence>
+  </segment>
+  <segment id='BE_DMEL.004212' length='38' chromosome='2L' location='13905228'>
+   <sequence>CTAAGCCGATCTCGCATTAAAAATAAATAATGCTCGAG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006374' length='38' chromosome='2R' location='7044514'>
+   <sequence>ACCGCAAAGCTAATTGTTTTAATTTAAATGAAGGGAAA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006379' length='34' chromosome='2R' location='7044637'>
+   <sequence>GAGGCCTTCAATTAACCAGTTAAATGTGCCTTGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006383' length='48' chromosome='2R' location='7044677'>
+   <sequence>GCTGACGAAATTGATTGATATTTAATTGACATTTAATTTATTTATTTG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006352' length='57' chromosome='2R' location='15777845'>
+   <sequence>TTTCAAACATTAAAATTAATAAATTATTACAAAATGACAATACATTAACGCAGACGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006353' length='29' chromosome='2R' location='15777949'>
+   <sequence>GCCTGCAGCTTTAATCATTCCTCGCAGCT</sequence>
+  </segment>
+  <segment id='BE_DMEL.006356' length='32' chromosome='2R' location='15777988'>
+   <sequence>CAGACCTGAAATAAATTTACTTTAATGTTACT</sequence>
+  </segment>
+  <segment id='BE_DMEL.006148' length='98' chromosome='3R' location='12559841'>
+   <sequence>TAAGCGTTACGATTATTACTATGTTTATTGTTATTGCAATTATTATTATTATTTTTATGGTTTTAACGATTTGAACGATTATTAGCCATAGTGCTGAC</sequence>
+  </segment>
+  <segment id='BE_DMEL.006152' length='59' chromosome='3R' location='12560054'>
+   <sequence>GCTGAGGGCCAATAATAACAATAATGCCGCTGATAATGTGGATAATAAAACAAAGCGCG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006000' length='45' chromosome='3R' location='17497588'>
+   <sequence>ACAATAACTTAATCCCAAATTGCAATTTTATTATTAAGTAACATC</sequence>
+  </segment>
+ </group>
+</smallbismark>

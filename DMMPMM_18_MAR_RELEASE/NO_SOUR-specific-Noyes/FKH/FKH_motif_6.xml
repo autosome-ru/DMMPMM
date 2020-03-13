@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='fkh' id='FKH.MTF'>
+  <comment name='discrete information content by position'>[-0.740016875889676, 0.0, -0.179047772759081, -0.277002231776196, -0.731926287899182, -0.277002231776196]</comment>
+  <comment name='discrete information content'>-2.20499540010033</comment>
+  <comment name='number of sequences in the corresponding alignment'>36</comment>
+  <PPM length='6'>
+   <pm-column position='1'>
+    <a>0.0347222222222222</a>
+    <c>0.5625</c>
+    <g>0.00694444444444444</g>
+    <t>0.395833333333333</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.944444444444444</a>
+    <c>0.0</c>
+    <g>0.0555555555555556</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.916666666666667</a>
+    <c>0.0</c>
+    <g>0.0277777777777778</g>
+    <t>0.0555555555555556</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.0</a>
+    <c>0.694444444444444</c>
+    <g>0.138888888888889</g>
+    <t>0.166666666666667</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.916666666666667</a>
+    <c>0.0</c>
+    <g>0.0555555555555556</g>
+    <t>0.0277777777777778</t>
+   </pm-column>
+  </PPM>
+  <PWM length='6'>
+   <pm-column position='1'>
+    <a>-1.81915844341617</a>
+    <c>0.795801334620029</c>
+    <g>-2.91777073208428</g>
+    <t>0.449525097902195</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>1.36581582977635</a>
+    <c>-3.61091791264422</c>
+    <g>-3.61091791264422</g>
+    <t>-3.61091791264422</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>1.3090630131839</a>
+    <c>-3.61091791264422</c>
+    <g>-1.41369333530801</g>
+    <t>-3.61091791264422</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.27943121557753</a>
+    <c>-3.61091791264422</c>
+    <g>-2.00148000021012</g>
+    <t>-1.41369333530801</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-3.61091791264422</a>
+    <c>1.00420260419704</c>
+    <g>-0.566395474920801</g>
+    <t>-0.392042087776024</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>1.27943121557753</a>
+    <c>-3.61091791264422</c>
+    <g>-1.41369333530801</g>
+    <t>-2.00148000021012</t>
+   </pm-column>
+  </PWM>
+  <word-list size='36'>
+   <word score='5.63750052095931'>CAAATA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='5.1168708970967'>TAAAGA</word>
+   <word score='2.770022582929'>CAAAGG</word>
+   <word score='5.46314713381454'>CAAAGA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='5.29122428424148'>TAAATA</word>
+   <word score='2.42374634621117'>TAATGA</word>
+   <word score='3.75283399714472'>CAAACT</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='1.61786431355493'>CAGTCA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='5.63750052095931'>CAAATA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='5.29122428424148'>TAAATA</word>
+   <word score='5.63750052095931'>CAAATA</word>
+   <word score='5.63750052095931'>CAAATA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='4.41878543489617'>AAAACA</word>
+   <word score='0.263908111639157'>NAAGCG</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='2.74039078532263'>CAGAGA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='7.03374521293237'>CAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+   <word score='6.68746897621454'>TAAACA</word>
+  </word-list>
+ </motif>
+</smallbismark>

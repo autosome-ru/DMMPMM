@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=Abd-B</comment>
+ <group name='bismark extracted sequences' size='7'>
+  <segment id='BE_DMEL.003205' length='10' chromosome='3R' location='9723807'>
+   <sequence>GCTCATAAAT</sequence>
+  </segment>
+  <segment id='BE_DMEL.003206' length='10' chromosome='3R' location='9723844'>
+   <sequence>AACGATAATG</sequence>
+  </segment>
+  <segment id='BE_DMEL.003208' length='10' chromosome='3R' location='9723999'>
+   <sequence>TTTTATTTCG</sequence>
+  </segment>
+  <segment id='BE_DMEL.003209' length='11' chromosome='3R' location='9724092'>
+   <sequence>TGTCATAAAAA</sequence>
+  </segment>
+  <segment id='BE_DMEL.003211' length='10' chromosome='3R' location='9724527'>
+   <sequence>TTTTATGATT</sequence>
+  </segment>
+  <segment id='BE_DMEL.003213' length='10' chromosome='3R' location='9724558'>
+   <sequence>TTTTATGATC</sequence>
+  </segment>
+  <segment id='BE_DMEL.003214' length='10' chromosome='3R' location='9724615'>
+   <sequence>TTTTACGGCT</sequence>
+  </segment>
+ </group>
+</smallbismark>

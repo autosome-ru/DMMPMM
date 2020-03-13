@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=gl</comment>
+ <group name='bismark extracted sequences' size='5'>
+  <segment id='BE_DMEL.006367' length='54' chromosome='3R' location='14200860'>
+   <sequence>CGAGGCTTCTAAAATCAATGAAATACTTTTCGGGCTGCACCGATGGGGCTTCTC</sequence>
+  </segment>
+  <segment id='BE_DMEL.006368' length='16' chromosome='3R' location='14200938'>
+   <sequence>TATGCTGCCACTCAAG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006371' length='24' chromosome='3R' location='15714115'>
+   <sequence>TTAAAGGCATTTCAAGGGTTTCCA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006372' length='16' chromosome='3R' location='15714205'>
+   <sequence>GCGATTTAATGTGTCA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006373' length='51' chromosome='3R' location='15714233'>
+   <sequence>ATTTGAAGAATATTATGAAAACATATCGTAGCAGAAGAAATATCAGTATCG</sequence>
+  </segment>
+ </group>
+</smallbismark>

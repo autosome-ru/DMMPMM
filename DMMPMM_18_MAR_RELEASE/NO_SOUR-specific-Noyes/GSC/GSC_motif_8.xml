@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='Gsc' id='GSC.MTF'>
+  <comment name='discrete information content by position'>[-1.02156744561648, -1.11480702128526, 0.0, 0.0, 0.0, 0.0, 0.0, -0.7276164443849]</comment>
+  <comment name='discrete information content'>-2.86399091128664</comment>
+  <comment name='number of sequences in the corresponding alignment'>22</comment>
+  <PPM length='8'>
+   <pm-column position='1'>
+    <a>0.363636363636364</a>
+    <c>0.363636363636364</c>
+    <g>0.227272727272727</g>
+    <t>0.0454545454545455</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.181818181818182</a>
+    <c>0.227272727272727</c>
+    <g>0.181818181818182</g>
+    <t>0.409090909090909</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>1.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>1.0</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.0</a>
+    <c>1.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.0</a>
+    <c>0.636363636363636</c>
+    <g>0.0909090909090909</g>
+    <t>0.272727272727273</t>
+   </pm-column>
+  </PPM>
+  <PWM length='8'>
+   <pm-column position='1'>
+    <a>0.361013345537331</a>
+    <c>0.361013345537331</c>
+    <g>-0.0909717782057268</g>
+    <t>-1.52605630349505</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-0.302280871872934</a>
+    <c>-0.0909717782057268</c>
+    <g>-0.302280871872934</g>
+    <t>0.475423696715075</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-3.13549421592915</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>1.35314215380299</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.35314215380299</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>1.35314215380299</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-3.13549421592915</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>1.35314215380299</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>-3.13549421592915</a>
+    <c>1.35314215380299</c>
+    <g>-3.13549421592915</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>-3.13549421592915</a>
+    <c>0.9075570519054</c>
+    <g>-0.93826963859293</g>
+    <t>0.083381608939051</t>
+   </pm-column>
+  </PWM>
+  <word-list size='22'>
+   <word score='8.50970486317276'>CTTAATCC</word>
+   <word score='7.11913394528561'>ACTAATCT</word>
+   <word score='8.50970486317276'>ATTAATCC</word>
+   <word score='7.73200029458475'>CATAATCC</word>
+   <word score='6.62263521414038'>TTTAATCC</word>
+   <word score='6.45583972787534'>GATAATCT</word>
+   <word score='7.73200029458475'>AATAATCC</word>
+   <word score='5.88617360408642'>CGTAATCG</word>
+   <word score='7.94330938825195'>CCTAATCC</word>
+   <word score='7.73200029458475'>AGTAATCC</word>
+   <word score='7.23354429646335'>GTTAATCT</word>
+   <word score='7.73200029458475'>AGTAATCC</word>
+   <word score='8.0577197394297'>GTTAATCC</word>
+   <word score='6.66387817267442'>CTTAATCG</word>
+   <word score='8.0577197394297'>GTTAATCC</word>
+   <word score='7.11913394528561'>ACTAATCT</word>
+   <word score='7.94330938825195'>CCTAATCC</word>
+   <word score='7.73200029458475'>CGTAATCC</word>
+   <word score='7.68552942020641'>CTTAATCT</word>
+   <word score='7.73200029458475'>AATAATCC</word>
+   <word score='7.94330938825195'>ACTAATCC</word>
+   <word score='7.23354429646335'>GTTAATCT</word>
+  </word-list>
+ </motif>
+</smallbismark>

@@ -1,0 +1,170 @@
+--- 
+"[bifooxir]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by bifooxi tool
+    :value: 11
+  SIGNIFICANCE_HIGH: 
+    :description: chi-square criterion significance upper border
+    :value: 0.0099
+  SIGNIFICANCE_LOW: 
+    :description: chi-square criterion significance lower border
+    :value: 0.015
+  SIGNIFICANCE_DELTA: 
+    :description: chi-square criterion significance delta
+    :value: 0.005
+"[bifooxi_cu]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 11
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 1
+"[bifooxi]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 11
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.01
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 256
+"[by_mfa2seg]": 
+  BISMARK_OUT: 
+    :path: H_noyes.xml
+    :description: result of ../../../indata/noyes/h.mfa conversion to small-BiSMark format
+"[bigfoot]": 
+  MOTIF_LENGTH: 
+    :description: motif length used
+    :value: 15
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content
+    :value: 0
+  POSITION_INFOCOD: 
+    :description: best discrete information content for motif h (bismark=H_motif_15.xml)
+    :value: 
+    - -1.19747508756445
+    - -1.24720688762385
+    - -0.922346163311527
+    - -1.1385414162595
+    - -0.768668618913563
+    - -0.160907012008787
+    - -0.222580039758861
+    - -0.396416892279243
+    - -0.681212101307195
+    - -0.214621987134668
+    - -0.804167800386905
+    - -0.387911719267574
+    - -0.814304978227182
+    - -1.21082903608243
+    - -1.22742749752038
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: true
+  BEST_PAIR: 
+    :description: words pair used for initial PCM construction
+    :value: 
+    - ATCAAACTCTCCAAT
+    - ATCAAACTCTCCAAT
+  MOTIF_LOGO: 
+    :path: H_motif_15.xml.png
+    :description: resulting motif logo
+  FLANK_LENGTH: 
+    :description: flank length used
+    :value: 10
+  TOTAL_INFOCOD: 
+    :description: best discrete information content for motif h (bismark=H_motif_15.xml)
+    :value: -11.3946172376461
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content
+    :value: 0
+  SEQUENCE_COUNT: 
+    :description: sequence set size
+    :value: 42
+"[bifoosig]": 
+  MIN_SEQUENCE_LENGTH: 
+    :description: length of the shortest sequence in the set
+    :value: 28
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: "true"
+  ADD_FLANK_LENGTH: 
+    :description: additional flank length
+    :value: 1
+  MOTIF_FOUND: 
+    :description: no motif found till length 15
+    :value: false
+  MIN_MOTIF_LENGTH: 
+    :description: minimum motif length allowed
+    :value: 6
+  TOTAL_INFOCOD: 
+    :description: best total discrete information content for different motif lengths
+    :value: 
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+    - -11.3946172376461
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  MAX_MOTIF_LENGTH: 
+    :description: maximum motif length allowed
+    :value: 15
+  START_FLANK_LENGTH: 
+    :description: starting flank length used for the shortest motif
+    :value: 1
+  SEQUENCE_COUNT: 
+    :description: total number of sequences in the set
+    :value: 42
+  LENGTH_MODE: 
+    :description: motif length identification mode
+    :value: disabled
+"[bifooxi_cons]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 11
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 2048
+"[bifoocut]": 
+  MOTIF_LENGTH: 
+    :description: motif length found
+    :value: 11
+  MODE: 
+    :description: length detection mode
+    :value: :xi2

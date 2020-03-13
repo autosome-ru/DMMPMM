@@ -1,0 +1,14 @@
+--- 
+"[pmcmp]": 
+  SELECTIVITY_GRAPH: 
+    :path: EIP74EF_comparison.png
+    :description: P-value for matrices using different thresholds on initial sequence set
+  USED_COUNT: 
+    :description: number of used (best) sequences for each motif
+    :value: 8
+  FLANK_LENGTH: 
+    :description: sequence flank length
+    :value: 17
+  TOTAL_COUNT: 
+    :description: total number of sequences from set
+    :value: 8

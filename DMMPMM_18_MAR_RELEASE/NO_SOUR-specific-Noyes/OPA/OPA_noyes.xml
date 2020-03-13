@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <group size='21'>
+  <segment name='16' length='27' location='0' strand='direct'>
+   <sequence>CTCTCCTCCCGATTCGCCGCCCTGCTG</sequence>
+  </segment>
+  <segment name='5' length='28' location='0' strand='direct'>
+   <sequence>GCTTCCCCCCCGCTGCGCAGGAACCATT</sequence>
+  </segment>
+  <segment name='11' length='28' location='0' strand='direct'>
+   <sequence>GCCACAGAGGGGAGGGGACCCCCCACAG</sequence>
+  </segment>
+  <segment name='17' length='28' location='0' strand='direct'>
+   <sequence>AGCACAACGACTAAGTTGGCACCCGCTG</sequence>
+  </segment>
+  <segment name='6' length='28' location='0' strand='direct'>
+   <sequence>GCAACTATAAGCCAAGCCCCCCCGCTGG</sequence>
+  </segment>
+  <segment name='12' length='28' location='0' strand='direct'>
+   <sequence>GATCCAGACTCGGTCCGACCCCCCGCTG</sequence>
+  </segment>
+  <segment name='1' length='29' location='0' strand='direct'>
+   <sequence>CCCCCGCCGTGAATTTCAGATAGTAGGCT</sequence>
+  </segment>
+  <segment name='18' length='28' location='0' strand='direct'>
+   <sequence>GAAGCACCCGCCCAGAGAACCCCCGGTG</sequence>
+  </segment>
+  <segment name='7' length='28' location='0' strand='direct'>
+   <sequence>TAAACTATACCCCCTGCTGGCACCCTCA</sequence>
+  </segment>
+  <segment name='13' length='28' location='0' strand='direct'>
+   <sequence>CAAAAGACTGCTGTAGGCCCCCCCATGG</sequence>
+  </segment>
+  <segment name='2' length='29' location='0' strand='direct'>
+   <sequence>CCATTCACCTCCCGCAGAAGCAGCACACC</sequence>
+  </segment>
+  <segment name='19' length='28' location='0' strand='direct'>
+   <sequence>GTGGACCAGGCTAAGACACCCCGCGGAG</sequence>
+  </segment>
+  <segment name='8' length='28' location='0' strand='direct'>
+   <sequence>GCACCGGCCCAGTACGGACCGCCCGTTG</sequence>
+  </segment>
+  <segment name='14' length='28' location='0' strand='direct'>
+   <sequence>TATTGTGCGAGTCCCAGCTCCCCTACAG</sequence>
+  </segment>
+  <segment name='3' length='28' location='0' strand='direct'>
+   <sequence>AGAATCTTACCGCCCCGACCCCCCGCCA</sequence>
+  </segment>
+  <segment name='20' length='28' location='0' strand='direct'>
+   <sequence>GAAGGGAAACTAGTCCACAGGTACACAA</sequence>
+  </segment>
+  <segment name='9' length='28' location='0' strand='direct'>
+   <sequence>GCCTCCAGTAGCCCCTGCCCCCCCGCTG</sequence>
+  </segment>
+  <segment name='15' length='28' location='0' strand='direct'>
+   <sequence>TACAACCTCACCACAGCAGGGAGCCCTC</sequence>
+  </segment>
+  <segment name='4' length='28' location='0' strand='direct'>
+   <sequence>AACCTGGACCCGCTATGCCCCCCCACGA</sequence>
+  </segment>
+  <segment name='21' length='28' location='0' strand='direct'>
+   <sequence>CCCGCTACGAACCGAAGACCCCCCGCTG</sequence>
+  </segment>
+  <segment name='10' length='30' location='0' strand='direct'>
+   <sequence>GCGTATACGGCGCAGAAGACCCCCCTGGGG</sequence>
+  </segment>
+ </group>
+</smallbismark>

@@ -1,0 +1,41 @@
+--- 
+"[use_sesi]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by SeSiMCMC
+    :value: 9
+  ABSENCE_PRIOR: 
+    :description: motif absence prior given to SeSiMCMC
+    :value: 0.0
+  MOTIF_LOGO: 
+    :path: TWI_motif.xml.png
+    :description: motif logo
+  FLANK_LENGTH: 
+    :description: sequence flank length used for SeSiMCMC run
+    :value: 3
+  SESIMCMC_LOG: 
+    :path: TWI_motif_sesimcmc.html
+    :description: result-file of the SeSiMCMC run
+  SEQUENCE_SET: 
+    :path: TWI_footprints_3rlf_100rnf.fasta
+    :description: sequence set used for motif identification
+  MOTIF: 
+    :path: TWI_motif.xml
+    :description: resulting motif file
+  MAX_MOTIF_LENGTH: 
+    :description: maximum allowed motif length for SeSiMCMC run
+    :value: 12
+  SEQUENCE_COUNT: 
+    :description: sequence number in the set used for motif identification
+    :value: 15
+"[segexbsm]": 
+  BISMARK_OUT: 
+    :path: TWI_footprints.xml
+    :description: segments extracted from bismark db using source_id=be_dmel, factor_name=twi
+"[flkscn3]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+"[by_seg2mfa]": 
+  FASTA_OUT: 
+    :path: TWI_footprints.fasta
+    :description: TWI_footprints.xml converted to fasta format using genome_release=dmel40

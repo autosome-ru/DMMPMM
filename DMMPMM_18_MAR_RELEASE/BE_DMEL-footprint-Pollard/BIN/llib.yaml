@@ -1,0 +1,5 @@
+--- 
+"[flkscn3]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 9
+    :value: 1048576

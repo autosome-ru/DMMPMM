@@ -1,0 +1,4 @@
+	Bigfoot_ctrl_motif	SeSiMCMC_ctrl_motif	Pollard_motif
+Bigfoot_ctrl_motif	1.0	0.33398047862279	0.438917529803874
+SeSiMCMC_ctrl_motif	0.33398047862279	1.0	0.470414807791504
+Pollard_motif	0.438917529803874	0.470414807791504	1.0

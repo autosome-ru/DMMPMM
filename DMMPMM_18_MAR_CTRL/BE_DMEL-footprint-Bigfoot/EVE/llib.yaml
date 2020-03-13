@@ -1,0 +1,178 @@
+--- 
+"[bifooxir]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by bifooxi tool
+    :value: 8
+  SIGNIFICANCE_HIGH: 
+    :description: chi-square criterion significance upper border
+    :value: 0.01
+  SIGNIFICANCE_LOW: 
+    :description: chi-square criterion significance lower border
+    :value: 0.05
+  SIGNIFICANCE_DELTA: 
+    :description: chi-square criterion significance delta
+    :value: 0.005
+"[bifooxi]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 8
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 1024
+"[bifooxi_cu]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 15
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 1
+"[bigfoot]": 
+  MOTIF_LENGTH: 
+    :description: motif length used
+    :value: 15
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content
+    :value: 11
+  POSITION_INFOCOD: 
+    :description: best discrete information content for motif eve (bismark=EVE_motif_15.xml)
+    :value: 
+    - -0.721468820379825
+    - -0.482442666706527
+    - -0.795612579833171
+    - -0.753800178623144
+    - -0.406869791499899
+    - -0.878045511112543
+    - -0.873694942265993
+    - -0.652502535783767
+    - -0.513873099671778
+    - -0.691162030201309
+    - -1.12218560724473
+    - -0.843388152087477
+    - -1.07314414459128
+    - -0.799614715219779
+    - -0.406869791499899
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: true
+  BEST_PAIR: 
+    :description: words pair used for initial PCM construction
+    :value: 
+    - CCACTCTCAGCACCG
+    - GTCATAATTGCGGTG
+  MOTIF_LOGO: 
+    :path: EVE_motif_15.xml.png
+    :description: resulting motif logo
+  FLANK_LENGTH: 
+    :description: flank length used
+    :value: 10
+  TOTAL_INFOCOD: 
+    :description: best discrete information content for motif eve (bismark=EVE_motif_15.xml)
+    :value: -11.0146745667211
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content
+    :value: 0
+  SEQUENCE_COUNT: 
+    :description: sequence set size
+    :value: 20
+"[bifoosig]": 
+  MIN_SEQUENCE_LENGTH: 
+    :description: length of the shortest sequence in the set
+    :value: 10
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: "true"
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 2
+    - 0
+    - 1
+    - 3
+    - 4
+    - 4
+    - 5
+    - 5
+    - 11
+  ADD_FLANK_LENGTH: 
+    :description: additional flank length
+    :value: 1
+  MIN_MOTIF_LENGTH: 
+    :description: minimum motif length allowed
+    :value: 6
+  MOTIF_FOUND: 
+    :description: no motif found till length 15
+    :value: false
+  TOTAL_INFOCOD: 
+    :description: best total discrete information content for different motif lengths
+    :value: 
+    - -2.75127400379819
+    - -3.34953703017193
+    - -4.23035761150231
+    - -5.24590932177989
+    - -6.2282678308555
+    - -7.12891259815519
+    - -8.15822198412331
+    - -9.10608251943571
+    - -10.0462636621805
+    - -11.0146745667211
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matricx with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 1
+    - 0
+    - 1
+    - 0
+    - 1
+    - 2
+    - 1
+    - 0
+    - 0
+  LENGTH_MODE: 
+    :description: motif length identification mode
+    :value: disabled
+  SEQUENCE_COUNT: 
+    :description: total number of sequences in the set
+    :value: 20
+  START_FLANK_LENGTH: 
+    :description: starting flank length used for the shortest motif
+    :value: 1
+  MAX_MOTIF_LENGTH: 
+    :description: maximum motif length allowed
+    :value: 15
+"[bifooxi_cons]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 8
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 2048
+"[segexbsm]": 
+  BISMARK_OUT: 
+    :path: EVE_footprints.xml
+    :description: segments extracted from bismark db using source_id=BE_DMEL, factor_name=eve
+"[flancalc]": 
+  FLANK_LENGTH: 
+    :description: calculated flank length
+    :value: 3
+"[flkscn3]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+"[pmfin]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+  SEQUENCE_COUNT: 
+    :description: initial sequence count
+    :value: 20

@@ -1,0 +1,178 @@
+--- 
+"[bifooxir]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by bifooxi tool
+    :value: 12
+  SIGNIFICANCE_HIGH: 
+    :description: chi-square criterion significance upper border
+    :value: 0.01
+  SIGNIFICANCE_LOW: 
+    :description: chi-square criterion significance lower border
+    :value: 0.05
+  SIGNIFICANCE_DELTA: 
+    :description: chi-square criterion significance delta
+    :value: 0.005
+"[bifooxi_cu]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 6
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 1
+"[bifooxi]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 11
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 1024
+"[bigfoot]": 
+  MOTIF_LENGTH: 
+    :description: motif length used
+    :value: 15
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content
+    :value: 8
+  POSITION_INFOCOD: 
+    :description: best discrete information content for motif br-Z3 (bismark=BR_Z3_motif_15.xml)
+    :value: 
+    - -0.731015407627408
+    - -0.523878782339046
+    - -0.968931813234385
+    - -0.856946846414962
+    - -0.469161986254424
+    - -1.05126315634003
+    - 0.0
+    - -0.895956490732029
+    - -0.667790350647419
+    - -1.00794145755145
+    - -0.843000374457832
+    - -0.843000374457745
+    - -0.667790350647419
+    - 0.0
+    - -0.584054454058362
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: true
+  BEST_PAIR: 
+    :description: words pair used for initial PCM construction
+    :value: 
+    - TAGTTGTGTGAGCAA
+    - TTTTAGTTTCTTCAT
+  MOTIF_LOGO: 
+    :path: BR_Z3_motif_15.xml.png
+    :description: resulting motif logo
+  FLANK_LENGTH: 
+    :description: flank length used
+    :value: 10
+  TOTAL_INFOCOD: 
+    :description: best discrete information content for motif br-Z3 (bismark=BR_Z3_motif_15.xml)
+    :value: -10.1107318447625
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content
+    :value: 0
+  SEQUENCE_COUNT: 
+    :description: sequence set size
+    :value: 16
+"[bifoosig]": 
+  MIN_SEQUENCE_LENGTH: 
+    :description: length of the shortest sequence in the set
+    :value: 13
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: "true"
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 1
+    - 4
+    - 3
+    - 4
+    - 5
+    - 7
+    - 6
+    - 9
+    - 6
+    - 8
+  ADD_FLANK_LENGTH: 
+    :description: additional flank length
+    :value: 1
+  MIN_MOTIF_LENGTH: 
+    :description: minimum motif length allowed
+    :value: 6
+  MOTIF_FOUND: 
+    :description: no motif found till length 15
+    :value: false
+  TOTAL_INFOCOD: 
+    :description: best total discrete information content for different motif lengths
+    :value: 
+    - -2.554529892868
+    - -3.3280753311284
+    - -4.18371867744289
+    - -4.99305294248082
+    - -5.93037147079592
+    - -6.77811944155404
+    - -7.73810745206447
+    - -8.53560516675013
+    - -9.26193810624643
+    - -10.1107318447625
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matricx with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    - 2
+    - 1
+    - 0
+    - 0
+    - 0
+  LENGTH_MODE: 
+    :description: motif length identification mode
+    :value: disabled
+  SEQUENCE_COUNT: 
+    :description: total number of sequences in the set
+    :value: 16
+  START_FLANK_LENGTH: 
+    :description: starting flank length used for the shortest motif
+    :value: 1
+  MAX_MOTIF_LENGTH: 
+    :description: maximum motif length allowed
+    :value: 15
+"[bifooxi_cons]": 
+  MOTIF_LENGTH: 
+    :description: motif length identified by chi-square criterion
+    :value: 15
+  SIGNIFICANCE_LEVEL: 
+    :description: chi-square criterion significance level
+    :value: 0.05
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterations for background sampling
+    :value: 2048
+"[segexbsm]": 
+  BISMARK_OUT: 
+    :path: BR_Z3_footprints.xml
+    :description: segments extracted from bismark db using source_id=BE_DMEL, factor_name=br-Z3
+"[flkscn3]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+"[flancalc]": 
+  FLANK_LENGTH: 
+    :description: calculated flank length
+    :value: 6
+"[pmfin]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+  SEQUENCE_COUNT: 
+    :description: initial sequence count
+    :value: 16

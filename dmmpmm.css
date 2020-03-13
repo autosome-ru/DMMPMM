@@ -1,0 +1,170 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #fefefe;
+  color: navy;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+}
+
+h1 {
+  border-bottom: #99c4d5 solid 2px;
+  color: navy;
+  background: #cbd8ef;
+  padding: 0 0 0 5px;
+  margin: 5px 0 0 5px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h1.link {
+  border: none;
+  border-bottom: #99c4d5 solid 1px;
+  color: navy;
+  background: transparent;
+  padding: 0 0 0 5px;
+  margin: 5px 0 0 5px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  border-bottom: #99c4d5 solid 2px;
+  color: navy;
+  background: #cbd8ef;
+  padding: 0 0 0 5px;
+  margin: 5px 0 0 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h2.link {
+  border: none;
+  border-bottom: #99c4d5 solid 1px;
+  color: navy;
+  background: transparent;
+  padding: 0 0 0 5px;
+  margin: 5px 0 0 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h3{
+  border: none;
+  border-right: none;
+  color: navy;
+  background-color: #cbd8ef;
+  padding: 0 0 0 5px;
+  margin: 0px 0 0 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+table {
+  border-top: #cbd8ef dotted 1px;
+  margin: 5px 5px 0 5px;
+  font-size: 11px;
+}
+
+th {
+  text-align: left;
+  border-left: #bac7df dotted 1px;
+}
+
+td {
+  padding: 1px;
+}
+
+.colored {
+  background-color: #cbd8ef;
+}
+
+.red {
+  background-color: #f5b29a;
+}
+
+.orange {
+  background-color: #f5cb9a;
+}
+
+.yellow {
+  background-color: #f5f19a;
+}
+
+.green {
+  background-color: #d3f59a;
+}
+
+.blue {
+  background-color: #66ffff;
+}
+
+.violet {
+  background-color: #ffccff;
+}
+
+img {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+a {
+  color: navy;
+  text-decoration: none;
+  font-weight: bold;
+  background: #d3f59a;
+  border: solid 1px #99c4d5;
+}
+
+a.simple {
+  border: none;
+  background: transparent;
+}
+a.simple:hover {
+  border: none;
+  background: transparent;
+}
+
+a:hover {
+  color: navy;
+  font-weight: bold;
+  background: #f5f19a;
+}
+
+a:visited {
+  color: navy;
+  font-weight: bold;
+}
+
+p {
+  font-size: 150%;
+  margin: 5px 5px 5px 15px;
+}
+
+.small {
+  font-size: 120%;
+}
+
+h5 {
+  padding: 0 0 0 9px;
+  margin: 5px 0 0 5px;
+}
+
+ul { 
+  list-style: circle;
+  margin: 5px 5px 0 5px;
+}
+
+hr {
+  color: navy;
+  border: navy solid 2px;
+  padding: 0;
+  margin: 5px 0px 0 5px;
+}
+
+pre {
+  font-size: 80%;
+  border: gray dotted 1px;
+  margin: 5px 5px 0 5px;
+}

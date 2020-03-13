@@ -1,0 +1,5 @@
+	Bigfoot_motif	Pollard_motif	Bergman_motif	SeSiMCMC_motif
+Bigfoot_motif	1.0	0.579422917837898	*	0.431883047660058
+Pollard_motif	0.579422917837898	1.0	*	0.612674549109028
+Bergman_motif	*	*	*	*
+SeSiMCMC_motif	0.431883047660058	0.612674549109028	*	1.0

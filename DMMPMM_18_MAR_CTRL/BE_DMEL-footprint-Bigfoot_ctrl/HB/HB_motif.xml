@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='hb' id='HB.MTF'>
+  <PPM length='8'>
+   <pm-column position='1'>
+    <a>0.446601941747573</a>
+    <c>0.16504854368932</c>
+    <g>0.174757281553398</g>
+    <t>0.213592233009709</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.0194174757281553</a>
+    <c>0.320388349514563</c>
+    <g>0.0970873786407767</g>
+    <t>0.563106796116505</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.951456310679612</a>
+    <c>0.0</c>
+    <g>0.0485436893203883</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.990291262135922</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.00970873786407767</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.932038834951456</a>
+    <c>0.00970873786407767</c>
+    <g>0.0388349514563107</g>
+    <t>0.0194174757281553</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.990291262135922</a>
+    <c>0.0</c>
+    <g>0.00970873786407767</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.660194174757282</a>
+    <c>0.058252427184466</c>
+    <g>0.106796116504854</g>
+    <t>0.174757281553398</t>
+   </pm-column>
+  </PPM>
+  <PWM length='8'>
+   <pm-column position='1'>
+    <a>0.575964925936952</a>
+    <c>-0.410284394544113</c>
+    <g>-0.353931457992982</g>
+    <t>-0.155754529409233</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-2.44716632180515</a>
+    <c>0.245958229080381</c>
+    <g>-0.930818832437065</g>
+    <t>0.806647554424328</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>1.32941871272789</a>
+    <c>-4.64439089914137</c>
+    <g>-1.59986846141795</g>
+    <t>-4.64439089914137</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.36932425690143</a>
+    <c>-4.64439089914137</c>
+    <g>-4.64439089914137</g>
+    <t>-3.03495298670727</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>1.37905669381966</a>
+    <c>-4.64439089914137</c>
+    <g>-4.64439089914137</g>
+    <t>-4.64439089914137</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>1.30885243514641</a>
+    <c>-3.03495298670727</c>
+    <g>-1.81117755508516</g>
+    <t>-2.44716632180515</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>1.36932425690143</a>
+    <c>-4.64439089914137</c>
+    <g>-3.03495298670727</g>
+    <t>-4.64439089914137</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.965080896043587</a>
+    <c>-1.42551507427317</c>
+    <g>-0.837728409371053</g>
+    <t>-0.353931457992982</t>
+   </pm-column>
+  </PWM>
+  <word-list size='106'>
+   <word score='5.18813323727478'>CTGAAAAA</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='7.22396805252117'>ACAAAAAT</word>
+   <word score='3.25093405232554'>GTAAAGAG</word>
+   <word score='5.42295041632617'>ACAAAGAA</word>
+   <word score='7.78465737786512'>ATAAAAAT</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='6.37995402455923'>CGAAAAAA</word>
+   <word score='6.43630696111036'>GGAAAAAA</word>
+   <word score='8.3719502765555'>TTAAAAAA</word>
+   <word score='5.98135430623874'>TTAAAAAC</word>
+   <word score='5.78317737765499'>GTAAAAAC</word>
+   <word score='6.71307376158493'>ATAAAAAC</word>
+   <word score='7.61308402262781'>GCAAAAAA</word>
+   <word score='7.55673108607667'>CCAAAAAA</word>
+   <word score='5.44266310240966'>TTGAAAAA</word>
+   <word score='5.34765097495012'>ATAAATAA</word>
+   <word score='7.61308402262781'>GCAAAAAA</word>
+   <word score='5.56339403962565'>AGAAAAAG</word>
+   <word score='6.63448388969411'>TGAAAAAA</word>
+   <word score='6.37995402455923'>CGAAAAAA</word>
+   <word score='5.8498558556722'>AAAAAAAA</word>
+   <word score='5.8498558556722'>AAAAAAAA</word>
+   <word score='5.8498558556722'>AAAAAAAA</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='7.36620334504029'>AGAAAAAA</word>
+   <word score='6.29407166859124'>GCAAAAAT</word>
+   <word score='7.30086042648704'>ATAAAAAG</word>
+   <word score='6.71307376158493'>ATAAAAAC</word>
+   <word score='5.8498558556722'>AAAAAAAA</word>
+   <word score='6.79840805738405'>CTAAAAAT</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='6.79840805738405'>CTAAAAAT</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='5.42295041632617'>ACAAAGAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='5.75392178066203'>CCAAAAAG</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='6.79840805738405'>CTAAAAAT</word>
+   <word score='7.22396805252117'>ACAAAAAT</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='7.81126095121155'>TCAAAAAA</word>
+   <word score='5.75392178066203'>CCAAAAAG</word>
+   <word score='7.36620334504029'>AGAAAAAA</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='8.17377334797175'>GTAAAAAA</word>
+   <word score='8.3719502765555'>TTAAAAAA</word>
+   <word score='5.4206649808948'>TCAAAAAC</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='8.3719502765555'>TTAAAAAA</word>
+   <word score='5.98363974167012'>ATAAAGAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='2.64866067891023'>TTAAAAGT</word>
+   <word score='7.30086042648704'>ATAAAAAG</word>
+   <word score='5.75392178066203'>CCAAAAAG</word>
+   <word score='6.43630696111036'>GGAAAAAA</word>
+   <word score='8.17377334797175'>GTAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='7.61308402262781'>GCAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='8.11742041142062'>CTAAAAAA</word>
+   <word score='8.3719502765555'>TTAAAAAA</word>
+   <word score='8.54298040655774'>ACAAAAAA</word>
+   <word score='3.50701978696452'>GGGAAAAA</word>
+   <word score='4.02814485470182'>TTAAACAA</word>
+   <word score='7.55673108607667'>CCAAAAAA</word>
+   <word score='7.55673108607667'>CCAAAAAA</word>
+   <word score='6.56914097114086'>TTAAAAAG</word>
+   <word score='6.43630696111036'>GGAAAAAA</word>
+   <word score='8.11742041142062'>CTAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='8.17377334797175'>GTAAAAAA</word>
+   <word score='8.3719502765555'>TTAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='6.37096404255711'>GTAAAAAG</word>
+   <word score='7.22396805252117'>ACAAAAAT</word>
+   <word score='3.92547381978934'>GTGAAAAT</word>
+   <word score='6.00845164579691'>TCAAAAAG</word>
+   <word score='3.15245384246797'>CCATAAAA</word>
+   <word score='8.17377334797175'>GTAAAAAA</word>
+   <word score='6.79840805738405'>CTAAAAAT</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='3.29691916556737'>TTAAATAT</word>
+   <word score='6.15238443624098'>ACAAAAAC</word>
+   <word score='7.78465737786512'>ATAAAAAT</word>
+   <word score='7.05293792251893'>TTAAAAAT</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='8.3719502765555'>TTAAAAAA</word>
+   <word score='5.44266310240966'>TTGAAAAA</word>
+   <word score='7.22396805252117'>ACAAAAAT</word>
+   <word score='6.00845164579691'>TCAAAAAG</word>
+   <word score='8.17377334797175'>GTAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='7.05293792251893'>TTAAAAAT</word>
+   <word score='8.3719502765555'>TTAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='7.05293792251893'>TTAAAAAT</word>
+   <word score='6.79840805738405'>CTAAAAAT</word>
+   <word score='7.61308402262781'>GCAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+   <word score='9.10366973190169'>ATAAAAAA</word>
+  </word-list>
+ </motif>
+</smallbismark>

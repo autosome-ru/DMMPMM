@@ -1,0 +1,3 @@
+	Bigfoot_ctrl_motif	Pollard_motif
+Bigfoot_ctrl_motif	1.0	0.107930814134834
+Pollard_motif	0.107930814134834	1.0

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='abd-A' id='ABD_A.MTF'>
+  <comment name='discrete information content by position'>[-0.453206026823881, -0.56968701222514, -0.270718985621194, -0.395162502183342, -0.523181588234057, -0.53220640810145]</comment>
+  <comment name='discrete information content'>-2.74416252318906</comment>
+  <comment name='number of sequences in the corresponding alignment'>23</comment>
+  <PPM length='6'>
+   <pm-column position='1'>
+    <a>0.0</a>
+    <c>0.217391304347826</c>
+    <g>0.0</g>
+    <t>0.782608695652174</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.652173913043478</a>
+    <c>0.347826086956522</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.91304347826087</a>
+    <c>0.0434782608695652</c>
+    <g>0.0</g>
+    <t>0.0434782608695652</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.0</a>
+    <c>0.173913043478261</c>
+    <g>0.0</g>
+    <t>0.826086956521739</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.173913043478261</a>
+    <c>0.0434782608695652</c>
+    <g>0.0</g>
+    <t>0.782608695652174</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.793478260869565</a>
+    <c>0.0543478260869565</c>
+    <g>0.0108695652173913</g>
+    <t>0.141304347826087</t>
+   </pm-column>
+  </PPM>
+  <PWM length='6'>
+   <pm-column position='1'>
+    <a>-3.17805383034795</a>
+    <c>-0.133531392624523</c>
+    <g>-3.17805383034795</g>
+    <t>1.11240561080045</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.932820033825366</a>
+    <c>0.318453731118535</c>
+    <g>-3.17805383034795</g>
+    <t>-3.17805383034795</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>1.26459742614237</a>
+    <c>-1.56861591791385</c>
+    <g>-3.17805383034795</g>
+    <t>-1.56861591791385</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-3.17805383034795</a>
+    <c>-0.344840486291729</c>
+    <g>-3.17805383034795</g>
+    <t>1.16575159150574</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-0.344840486291729</a>
+    <c>-1.56861591791385</c>
+    <g>-3.17805383034795</g>
+    <t>1.11240561080045</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>1.12601126285622</a>
+    <c>-1.38629436111989</c>
+    <g>-2.484906649788</g>
+    <t>-0.538996500732687</t>
+   </pm-column>
+  </PWM>
+  <word-list size='31'>
+   <word score='4.20168591195447'>TAATTC</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='5.46805453250562'>CAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='5.46805453250562'>CAATTA</word>
+   <word score='5.25674543883841'>TAATAA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='0.150429663137639'>CAACCN</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='3.26641188916754'>TCTTTA</word>
+   <word score='0.220842291320237'>CCACAT</word>
+   <word score='3.53839169454421'>TAACTT</word>
+   <word score='6.09962523322376'>TCATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='0.912940016984731'>TACCAA</word>
+   <word score='6.09962523322376'>TCATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.09962523322376'>TCATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='4.64237913613158'>TCATAA</word>
+   <word score='3.18868046620988'>CCATTT</word>
+   <word score='6.09962523322376'>TCATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+   <word score='6.71399153593059'>TAATTA</word>
+  </word-list>
+ </motif>
+</smallbismark>

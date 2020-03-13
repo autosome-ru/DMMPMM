@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='btd' id='BTD.MTF'>
+  <comment name='discrete information content by position'>[-1.13664234713741, -1.10766295438551, -0.561948922850134, -0.958959697949065, -0.19395549770832, 0.0, 0.0, -0.383810061178008, 0.0, -0.601097765615614, -0.99205336330827, -1.09138820819184, -1.18148873855274]</comment>
+  <comment name='discrete information content'>-8.2090075568769</comment>
+  <comment name='number of sequences in the corresponding alignment'>32</comment>
+  <PPM length='13'>
+   <pm-column position='1'>
+    <a>0.375</a>
+    <c>0.09375</c>
+    <g>0.25</g>
+    <t>0.28125</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.4375</a>
+    <c>0.09375</c>
+    <g>0.21875</g>
+    <t>0.25</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.3125</a>
+    <c>0.0</c>
+    <g>0.6875</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.125</a>
+    <c>0.0625</c>
+    <g>0.5625</g>
+    <t>0.25</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.0625</a>
+    <c>0.0</c>
+    <g>0.9375</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.0625</a>
+    <c>0.875</c>
+    <g>0.0625</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.625</g>
+    <t>0.375</t>
+   </pm-column>
+   <pm-column position='11'>
+    <a>0.484375</a>
+    <c>0.046875</c>
+    <g>0.328125</g>
+    <t>0.140625</t>
+   </pm-column>
+   <pm-column position='12'>
+    <a>0.2734375</a>
+    <c>0.1171875</c>
+    <g>0.1484375</g>
+    <t>0.4609375</t>
+   </pm-column>
+   <pm-column position='13'>
+    <a>0.1875</a>
+    <c>0.25</c>
+    <g>0.375</g>
+    <t>0.1875</t>
+   </pm-column>
+  </PPM>
+  <PWM length='13'>
+   <pm-column position='1'>
+    <a>0.395312736644146</a>
+    <c>-0.931558204004943</c>
+    <g>0.0</g>
+    <t>0.114410351177744</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.54654370636807</a>
+    <c>-0.931558204004943</c>
+    <g>-0.129211731480006</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.217064505237828</a>
+    <c>-3.49650756146648</c>
+    <g>0.99212880826566</g>
+    <t>-3.49650756146648</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-0.663294217410264</a>
+    <c>-1.29928298413026</c>
+    <g>0.793951879681911</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-1.29928298413026</a>
+    <c>-3.49650756146648</c>
+    <g>1.29928298413026</g>
+    <t>-3.49650756146648</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-3.49650756146648</a>
+    <c>-3.49650756146648</c>
+    <g>1.36330484289519</g>
+    <t>-3.49650756146648</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>-3.49650756146648</a>
+    <c>-3.49650756146648</c>
+    <g>1.36330484289519</g>
+    <t>-3.49650756146648</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>-1.29928298413026</a>
+    <c>1.23088025724586</c>
+    <g>-1.29928298413026</g>
+    <t>-3.49650756146648</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>-3.49650756146648</a>
+    <c>-3.49650756146648</c>
+    <g>1.36330484289519</g>
+    <t>-3.49650756146648</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>-3.49650756146648</a>
+    <c>-3.49650756146648</c>
+    <g>0.897941593205959</g>
+    <t>0.395312736644146</t>
+   </pm-column>
+   <pm-column position='11'>
+    <a>0.646627164925052</a>
+    <c>-1.55059741241117</c>
+    <g>0.264692554227082</g>
+    <t>-0.55206858230004</t>
+   </pm-column>
+   <pm-column position='12'>
+    <a>0.0870113769896297</a>
+    <c>-0.723918839226699</c>
+    <g>-0.500775287912489</g>
+    <t>0.59783700075562</t>
+   </pm-column>
+   <pm-column position='13'>
+    <a>-0.27763173659828</a>
+    <c>0.0</c>
+    <g>0.395312736644146</g>
+    <t>-0.27763173659828</t>
+   </pm-column>
+  </PWM>
+  <word-list size='32'>
+   <word score='9.73558474542669'>AAAGGGGCGGGNN</word>
+   <word score='8.05094757356263'>TAGAGGGCGTTTC</word>
+   <word score='6.93197973799361'>GAGAAGGCGTATG</word>
+   <word score='8.71003149228087'>CAGTGGGCGGGTA</word>
+   <word score='8.55480649620845'>TGGGGGGCGTTTT</word>
+   <word score='8.06397854287698'>GTAGGGGCGGTAC</word>
+   <word score='7.75803154838727'>AGGAGGGCGGACA</word>
+   <word score='10.2045307331143'>AAAGGGGCGGAAC</word>
+   <word score='4.29248344064287'>TTGCGGGGGTNNN</word>
+   <word score='8.83014836446912'>TCGTGGGCGTATG</word>
+   <word score='10.3120363654982'>AGGGGGGCGTATC</word>
+   <word score='10.9290755732378'>TGGGGGGCGGATG</word>
+   <word score='9.6997188322382'>GAGGGGGCGTGAC</word>
+   <word score='8.58050585214831'>AAAGGGGAGGATG</word>
+   <word score='4.29248344064287'>TTGCGGGGGTNNN</word>
+   <word score='7.63786686992667'>ACAGGGGCGGACA</word>
+   <word score='6.49851523538508'>AAGTAGGCGGACA</word>
+   <word score='6.95455134241876'>CGAGGGGCGGGGA</word>
+   <word score='9.76196918243393'>AGAGGGGCGGATT</word>
+   <word score='11.1084860492101'>AAGGGGGCGGGTN</word>
+   <word score='8.58050585214831'>AAAGGGGAGGATG</word>
+   <word score='10.6964687802262'>GAGTGGGCGGATG</word>
+   <word score='9.36966448069804'>ATGTGGGCGTATT</word>
+   <word score='8.75453598283236'>GTGTGGGCGTGAG</word>
+   <word score='7.61199341913393'>GAAGGGGCGGCAC</word>
+   <word score='9.65123995211797'>GAGAGGGCGGGTG</word>
+   <word score='10.8722789162245'>AAGGGGGCGTAAG</word>
+   <word score='9.18242766870756'>TTGGGGGCGGGGC</word>
+   <word score='6.57728729485716'>CCGTGGGCGGTAG</word>
+   <word score='8.75453598283236'>GTGTGGGCGTGAG</word>
+   <word score='9.28673054280725'>TTGGGGGCGGAGT</word>
+   <word score='8.00051989760145'>TGAGGGGCGGGGT</word>
+  </word-list>
+ </motif>
+</smallbismark>

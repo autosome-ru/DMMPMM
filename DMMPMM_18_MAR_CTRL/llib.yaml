@@ -1,0 +1,11 @@
+--- 
+"[dmmpmm]": 
+  BE_FO_S0: 
+    :path: BE_DMEL-footprint-SeSiMCMC
+    :description: Bergman footprinting data processed using SeSiMCMC sampler (zero motif absence prior) with length fixed from Pollard data
+  GENOME_RELEASE: 
+    :description: genome release used for data processing
+    :value: dmel40
+  BE_FO_BF: 
+    :path: BE_DMEL-footprint-Bigfoot_ctrl
+    :description: Bergman footprinting data processed using Bigfoot engine with length fixed from Pollard data

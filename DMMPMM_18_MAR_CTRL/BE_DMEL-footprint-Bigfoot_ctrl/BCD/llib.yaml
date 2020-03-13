@@ -1,0 +1,20 @@
+--- 
+"[segexbsm]": 
+  BISMARK_OUT: 
+    :path: BCD_footprints.xml
+    :description: segments extracted from bismark db using source_id=BE_DMEL, factor_name=bcd
+"[flancalc]": 
+  FLANK_LENGTH: 
+    :description: calculated flank length
+    :value: 3
+"[flkscn3]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+"[pmfin]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+  SEQUENCE_COUNT: 
+    :description: initial sequence count
+    :value: 48

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <group size='23'>
+  <segment name='16' length='10' location='0' strand='direct'>
+   <sequence>CGACTAATTA</sequence>
+  </segment>
+  <segment name='5' length='10' location='0' strand='direct'>
+   <sequence>GCAATTATCA</sequence>
+  </segment>
+  <segment name='22' length='9' location='0' strand='direct'>
+   <sequence>TCAATTAAG</sequence>
+  </segment>
+  <segment name='11' length='9' location='0' strand='direct'>
+   <sequence>CAATTAAAA</sequence>
+  </segment>
+  <segment name='17' length='10' location='0' strand='direct'>
+   <sequence>CCAATTAAAA</sequence>
+  </segment>
+  <segment name='6' length='10' location='0' strand='direct'>
+   <sequence>GTGCTAATTA</sequence>
+  </segment>
+  <segment name='23' length='10' location='0' strand='direct'>
+   <sequence>CGGCTAATTA</sequence>
+  </segment>
+  <segment name='12' length='10' location='0' strand='direct'>
+   <sequence>CCAATTAAAA</sequence>
+  </segment>
+  <segment name='1' length='10' location='0' strand='direct'>
+   <sequence>CTAATTAGCG</sequence>
+  </segment>
+  <segment name='18' length='10' location='0' strand='direct'>
+   <sequence>CTCAATTAAG</sequence>
+  </segment>
+  <segment name='7' length='10' location='0' strand='direct'>
+   <sequence>TCAATTAACC</sequence>
+  </segment>
+  <segment name='13' length='10' location='0' strand='direct'>
+   <sequence>TAACTAATTA</sequence>
+  </segment>
+  <segment name='2' length='10' location='0' strand='direct'>
+   <sequence>TATTTAATTA</sequence>
+  </segment>
+  <segment name='19' length='10' location='0' strand='direct'>
+   <sequence>GCGTTAATGA</sequence>
+  </segment>
+  <segment name='8' length='10' location='0' strand='direct'>
+   <sequence>ACGTTAATTA</sequence>
+  </segment>
+  <segment name='14' length='10' location='0' strand='direct'>
+   <sequence>CTCTTAATTG</sequence>
+  </segment>
+  <segment name='3' length='10' location='0' strand='direct'>
+   <sequence>CTCATTAGTG</sequence>
+  </segment>
+  <segment name='20' length='10' location='0' strand='direct'>
+   <sequence>GCTAATTAAG</sequence>
+  </segment>
+  <segment name='9' length='10' location='0' strand='direct'>
+   <sequence>TAGGTAATTA</sequence>
+  </segment>
+  <segment name='15' length='10' location='0' strand='direct'>
+   <sequence>CCGATAATTG</sequence>
+  </segment>
+  <segment name='4' length='10' location='0' strand='direct'>
+   <sequence>AGGGTAATTA</sequence>
+  </segment>
+  <segment name='21' length='10' location='0' strand='direct'>
+   <sequence>CCAATTAAAC</sequence>
+  </segment>
+  <segment name='10' length='10' location='0' strand='direct'>
+   <sequence>CGGCTAATTA</sequence>
+  </segment>
+ </group>
+</smallbismark>

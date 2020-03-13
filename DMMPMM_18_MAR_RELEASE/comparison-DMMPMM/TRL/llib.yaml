@@ -1,0 +1,14 @@
+--- 
+"[pmcmp]": 
+  SELECTIVITY_GRAPH: 
+    :path: TRL_comparison.png
+    :description: P-value for matrices using different thresholds on initial sequence set
+  USED_COUNT: 
+    :description: number of used (best) sequences for each motif
+    :value: 77
+  FLANK_LENGTH: 
+    :description: sequence flank length
+    :value: 13
+  TOTAL_COUNT: 
+    :description: total number of sequences from set
+    :value: 77

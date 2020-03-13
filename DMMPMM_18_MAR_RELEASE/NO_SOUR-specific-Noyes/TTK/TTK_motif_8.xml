@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='ttk' id='TTK.MTF'>
+  <comment name='discrete information content by position'>[0.0, 0.0, 0.0, 0.0, -0.462664370859831, -0.140501929698105, 0.0, -0.879080285759105]</comment>
+  <comment name='discrete information content'>-1.48224658631704</comment>
+  <comment name='number of sequences in the corresponding alignment'>22</comment>
+  <PPM length='8'>
+   <pm-column position='1'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.0</a>
+    <c>0.227272727272727</c>
+    <g>0.0</g>
+    <t>0.772727272727273</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.954545454545455</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0454545454545455</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.0454545454545455</a>
+    <c>0.227272727272727</c>
+    <g>0.136363636363636</g>
+    <t>0.590909090909091</t>
+   </pm-column>
+  </PPM>
+  <PWM length='8'>
+   <pm-column position='1'>
+    <a>1.35314215380299</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-3.13549421592915</a>
+    <c>-3.13549421592915</c>
+    <g>1.35314215380299</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-3.13549421592915</a>
+    <c>-3.13549421592915</c>
+    <g>1.35314215380299</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.35314215380299</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-3.13549421592915</a>
+    <c>-0.0909717782057268</c>
+    <g>-3.13549421592915</g>
+    <t>1.09861228866811</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>1.30715704056117</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>-1.52605630349505</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>1.35314215380299</a>
+    <c>-3.13549421592915</c>
+    <g>-3.13549421592915</g>
+    <t>-3.13549421592915</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>-1.52605630349505</a>
+    <c>-0.0909717782057268</c>
+    <g>-0.570544858467613</g>
+    <t>0.834797697622972</t>
+   </pm-column>
+  </PWM>
+  <word-list size='22'>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='8.60093523977661'>AGGATAAG</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='7.89092425316466'>AGGACAAC</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='9.0805083200385'>AGGATAAC</word>
+   <word score='8.60093523977661'>AGGATAAG</word>
+   <word score='8.81669372899336'>AGGACAAT</word>
+   <word score='6.24729497598228'>AGGATTAC</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='8.60093523977661'>AGGATAAG</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='6.45583972787534'>AGGACAAA</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='9.0805083200385'>AGGATAAC</word>
+   <word score='8.81669372899336'>AGGACAAT</word>
+   <word score='8.81669372899336'>AGGACAAT</word>
+   <word score='10.0062777958672'>AGGATAAT</word>
+   <word score='9.0805083200385'>AGGATAAC</word>
+  </word-list>
+ </motif>
+</smallbismark>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <comment name='bismark extraction parameters'>source_id=BE_DMEL,factor_name=pan</comment>
+ <group name='bismark extracted sequences' size='25'>
+  <segment id='BE_DMEL.000600' length='38' chromosome='2L' location='3823205'>
+   <sequence>GAAGGGATATATAATTTTCAAAGGTCTTACGACCAGAA</sequence>
+  </segment>
+  <segment id='BE_DMEL.000601' length='32' chromosome='2L' location='3823271'>
+   <sequence>TGTTTTTATAATTGTCTTCATCTTTTCATATT</sequence>
+  </segment>
+  <segment id='BE_DMEL.000602' length='35' chromosome='2L' location='3823441'>
+   <sequence>CAAATCAATTAGTTTTGTCGCGGTTGTCAAAATTA</sequence>
+  </segment>
+  <segment id='BE_DMEL.000603' length='37' chromosome='2L' location='3823988'>
+   <sequence>CATGTGTTGTTGCTGCTTTGATTGTTTTGTCAAGTTG</sequence>
+  </segment>
+  <segment id='BE_DMEL.000604' length='38' chromosome='2L' location='3824017'>
+   <sequence>TCAAGTTGTCTAAGATATCAAACGCACAGTGCCGCCGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.000605' length='35' chromosome='2L' location='3824167'>
+   <sequence>TTTGTTCAATTGTTCTAACAAAACATGCCATAAAA</sequence>
+  </segment>
+  <segment id='BE_DMEL.000606' length='30' chromosome='2L' location='3824203'>
+   <sequence>CATAAAACACTATGGACACAAAAACCACTT</sequence>
+  </segment>
+  <segment id='BE_DMEL.000607' length='38' chromosome='2L' location='3824291'>
+   <sequence>AACGAAAAGTCCGGACTTCAAAGTCCATTTCGGTAGCA</sequence>
+  </segment>
+  <segment id='BE_DMEL.000608' length='33' chromosome='2L' location='3824340'>
+   <sequence>GCGAGACTTCGTTTGATCCCAAAGGATGTTTGT</sequence>
+  </segment>
+  <segment id='BE_DMEL.002461' length='26' chromosome='2R' location='5497178'>
+   <sequence>ATGGATGCCATCAATTAGCATACAAT</sequence>
+  </segment>
+  <segment id='BE_DMEL.002465' length='23' chromosome='2R' location='5497296'>
+   <sequence>CAGCAGATCAAAGCGACGACAAC</sequence>
+  </segment>
+  <segment id='BE_DMEL.002466' length='23' chromosome='2R' location='5497326'>
+   <sequence>CTGCTTCACTTCACAGTTCTCAG</sequence>
+  </segment>
+  <segment id='BE_DMEL.002468' length='26' chromosome='2R' location='5497342'>
+   <sequence>TTCTCAGGCACTTAAGATATACATAT</sequence>
+  </segment>
+  <segment id='BE_DMEL.002474' length='28' chromosome='2R' location='5497494'>
+   <sequence>TCGCGGCGATCCTTTGGATGCCCACTTG</sequence>
+  </segment>
+  <segment id='BE_DMEL.002476' length='26' chromosome='2R' location='5497519'>
+   <sequence>TTGAGGAGTTGTCCTTTAATGGGTGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.002477' length='25' chromosome='2R' location='5497583'>
+   <sequence>CCGGAGCTGATCTAAATACGGATCG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006471' length='31' chromosome='3R' location='22997059'>
+   <sequence>TTAATGAAATATTTTTTGATCTTGATATTGT</sequence>
+  </segment>
+  <segment id='BE_DMEL.006475' length='28' chromosome='3R' location='22997239'>
+   <sequence>CCGGCCATTTCGTTTTGTTCGAGCCGAG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006476' length='34' chromosome='3R' location='22997258'>
+   <sequence>CGAGCCGAGTTTACCGCTGACGAAATTTACGCAC</sequence>
+  </segment>
+  <segment id='BE_DMEL.006477' length='37' chromosome='3R' location='22997355'>
+   <sequence>TCGGGCCTTGATCATCCGCTGAGCTTAGTTTTGTGTG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006478' length='30' chromosome='3R' location='22997394'>
+   <sequence>TCGGCCGGCTCTTTTTGGTATTTTAATTAG</sequence>
+  </segment>
+  <segment id='BE_DMEL.006482' length='22' chromosome='3R' location='22997585'>
+   <sequence>TTTCACATTCAATTAGCGCATA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006484' length='31' chromosome='3R' location='22997600'>
+   <sequence>GCGCATATTTCAAATGCGATCGCCGCAATCC</sequence>
+  </segment>
+  <segment id='BE_DMEL.006485' length='34' chromosome='3R' location='22997681'>
+   <sequence>GATGCTGATGGAAAAAAGAGTCCGCAAGTCCAGA</sequence>
+  </segment>
+  <segment id='BE_DMEL.006486' length='27' chromosome='3R' location='22997715'>
+   <sequence>GCTGCCTTATATCAAAAGATGATTGCC</sequence>
+  </segment>
+ </group>
+</smallbismark>

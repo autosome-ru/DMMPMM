@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='kni' id='KNI.MTF'>
+  <comment name='discrete information content by position'>[-0.105954774589894, -0.554912919187238, -1.09105546449312, -0.524814380612946, -0.716670369200113, -0.906576456871064, -1.00027569862607]</comment>
+  <comment name='discrete information content'>-4.90026006358045</comment>
+  <comment name='number of sequences in the corresponding alignment'>33</comment>
+  <PPM length='7'>
+   <pm-column position='1'>
+    <a>0.96969696969697</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0303030303030303</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.787878787878788</a>
+    <c>0.0606060606060606</c>
+    <g>0.0</g>
+    <t>0.151515151515152</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.333333333333333</a>
+    <c>0.424242424242424</c>
+    <g>0.121212121212121</g>
+    <t>0.121212121212121</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.0303030303030303</a>
+    <c>0.0303030303030303</c>
+    <g>0.121212121212121</g>
+    <t>0.818181818181818</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.515151515151515</a>
+    <c>0.0</c>
+    <g>0.454545454545455</g>
+    <t>0.0303030303030303</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.121212121212121</a>
+    <c>0.151515151515152</c>
+    <g>0.636363636363636</g>
+    <t>0.0909090909090909</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.484848484848485</a>
+    <c>0.0606060606060606</c>
+    <g>0.333333333333333</g>
+    <t>0.121212121212121</t>
+   </pm-column>
+  </PPM>
+  <PWM length='7'>
+   <pm-column position='1'>
+    <a>1.33345187974551</a>
+    <c>-3.52636052461616</c>
+    <g>-3.52636052461616</g>
+    <t>-1.91692261218206</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>1.12759982554136</a>
+    <c>-1.32913594727994</c>
+    <g>-3.52636052461616</g>
+    <t>-0.481838086892738</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.280301965154158</a>
+    <c>0.516690743218389</c>
+    <g>-0.693147180559945</g>
+    <t>-0.693147180559945</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-1.91692261218206</a>
+    <c>-1.91692261218206</c>
+    <g>-0.693147180559945</g>
+    <t>1.16498735761298</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.707745979981098</a>
+    <c>-3.52636052461616</c>
+    <g>0.58451333955715</g>
+    <t>-1.91692261218206</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-0.693147180559945</a>
+    <c>-0.481838086892738</c>
+    <g>0.916290731874155</g>
+    <t>-0.961411167154625</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.648026745279476</a>
+    <c>-1.32913594727994</c>
+    <g>0.280301965154158</g>
+    <t>-0.693147180559945</t>
+   </pm-column>
+  </PWM>
+  <word-list size='33'>
+   <word score='6.41479326325297'>AACTAGA</word>
+   <word score='4.32026994701581'>AAAGAGA</word>
+   <word score='5.68744706463948'>AAATGGG</word>
+   <word score='5.20495533947464'>AAGTAGA</word>
+   <word score='4.43763057069356'>AACTAGC</word>
+   <word score='4.80535535081887'>AACTAAA</word>
+   <word score='3.93297780603465'>AAATATG</word>
+   <word score='4.55665872508005'>AACGAGA</word>
+   <word score='1.09552210540141'>ACCTGCT</word>
+   <word score='5.68744706463948'>AAATGGG</word>
+   <word score='3.0964945153937'>AAAAAGA</word>
+   <word score='5.08172269905069'>AAGTGGA</word>
+   <word score='1.86284687418249'>AATTGTT</word>
+   <word score='4.68212271039492'>ATCTGGA</word>
+   <word score='2.97909602117639'>AATGAGG</word>
+   <word score='2.18068675865571'>ATCTTGA</word>
+   <word score='-0.545414474092065'>TTCTGGC</word>
+   <word score='2.34861957799757'>ACCTAAA</word>
+   <word score='3.43910174058243'>AAATACT</word>
+   <word score='0.856214682434223'>ATTTACT</word>
+   <word score='5.20495533947464'>AAGTAGA</word>
+   <word score='4.68212271039492'>ATCTGGA</word>
+   <word score='6.04706848312765'>AACTAGG</word>
+   <word score='5.20495533947464'>AAGTAGA</word>
+   <word score='4.52570702393681'>AACTGCG</word>
+   <word score='2.97326187496975'>AAACGGA</word>
+   <word score='4.68212271039492'>AACTGAA</word>
+   <word score='2.5544163481236'>AAAGACG</word>
+   <word score='5.68744706463948'>AAATGGG</word>
+   <word score='6.29156062282902'>AACTGGA</word>
+   <word score='3.93297780603465'>AAATATG</word>
+   <word score='4.71399791892537'>AATTGGG</word>
+   <word score='4.07800915220538'>AAATGAG</word>
+  </word-list>
+ </motif>
+</smallbismark>

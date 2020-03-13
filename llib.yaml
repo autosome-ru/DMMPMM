@@ -1,0 +1,5 @@
+--- 
+"[dmmpmm]": 
+  GENOME_RELEASE: 
+    :value: dmel40
+    :description: genome release used for data processing

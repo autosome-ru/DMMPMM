@@ -1,0 +1,131 @@
+--- 
+"[by_mfa2seg]": 
+  BISMARK_OUT: 
+    :path: DL_noyes.xml
+    :description: result of ../../../indata/noyes/dl.mfa conversion to small-BiSMark format
+"[bigfoot]": 
+  MOTIF_LENGTH: 
+    :description: motif length used
+    :value: 15
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content
+    :value: 9
+  POSITION_INFOCOD: 
+    :description: best discrete information content for motif dl (bismark=DL_motif_15.xml)
+    :value: 
+    - -1.22716939069153
+    - -1.08458333546074
+    - -1.13002746978457
+    - -0.27020553783386
+    - -0.346279475802669
+    - -0.459761282678201
+    - -0.202334531031588
+    - 0.0
+    - -0.586922444007452
+    - -1.02070081037483
+    - -0.202334531031588
+    - -0.251041619381218
+    - -0.871224985940859
+    - -1.22617831509212
+    - -1.18487297951995
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: true
+  BEST_PAIR: 
+    :description: words pair used for initial PCM construction
+    :value: 
+    - CCTGGAAAAACCCNN
+    - NNNGGGAATTCCGGT
+  MOTIF_LOGO: 
+    :path: DL_motif_15.xml.png
+    :description: resulting motif logo
+  FLANK_LENGTH: 
+    :description: flank length used
+    :value: 10
+  TOTAL_INFOCOD: 
+    :description: best discrete information content for motif dl (bismark=DL_motif_15.xml)
+    :value: -10.0636367086312
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content
+    :value: 1
+  SEQUENCE_COUNT: 
+    :description: sequence set size
+    :value: 35
+"[bifoosig]": 
+  MIN_SEQUENCE_LENGTH: 
+    :description: length of the shortest sequence in the set
+    :value: 18
+  EXTENDED_MODE: 
+    :description: extended search mode
+    :value: "true"
+  LEADER_DELTA: 
+    :description: delta for word-pair corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 3
+    - 3
+    - 1
+    - 0
+    - 3
+    - 9
+  ADD_FLANK_LENGTH: 
+    :description: additional flank length
+    :value: 1
+  MIN_MOTIF_LENGTH: 
+    :description: minimum motif length allowed
+    :value: 6
+  MOTIF_FOUND: 
+    :description: no motif found till length 15
+    :value: false
+  TOTAL_INFOCOD: 
+    :description: best total discrete information content for different motif lengths
+    :value: 
+    - -1.64402057924581
+    - -2.5214411417792
+    - -2.83452805458546
+    - -3.19703129603587
+    - -4.15084693902897
+    - -5.30451804512258
+    - -6.4873588190523
+    - -7.68628687242073
+    - -8.83646731793965
+    - -10.0636367086312
+  LEADER_PHASE: 
+    :description: <Footstep> search phase corresponding to matrix with the best final discrete information content for different motif lengths
+    :value: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+  LENGTH_MODE: 
+    :description: motif length identification mode
+    :value: disabled
+  SEQUENCE_COUNT: 
+    :description: total number of sequences in the set
+    :value: 35
+  START_FLANK_LENGTH: 
+    :description: starting flank length used for the shortest motif
+    :value: 1
+  MAX_MOTIF_LENGTH: 
+    :description: maximum motif length allowed
+    :value: 15
+"[flkscn3]": 
+  MONTECARLO_COUNT: 
+    :description: number of montecarlo iterated words for PWMs longer than 10
+    :value: 1048576
+"[bifoocut]": 
+  MOTIF_LENGTH: 
+    :description: motif length found
+    :value: 12
+  MODE: 
+    :description: length detection mode
+    :value: :xi2
